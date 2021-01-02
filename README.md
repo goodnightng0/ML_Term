@@ -4,7 +4,7 @@ Term Project for COSE362 Machine Learning & STAT424 Statistical Machine Learning
 ## Project Goal
 Predict gender based on mart consumption data([here](./mart2.csv))
 
-#### [project description here](./Term%20Project.pdf) including :
+#### [project description](./Term%20Project.pdf) including :
 - numerous machine learning methods and reasons of selection
 - data preprocessing
 - trial and errors of experiment design and methods
