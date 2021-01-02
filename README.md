@@ -2,7 +2,7 @@
 Term Project for COSE362 Machine Learning
 
 ## Project Goal
-Predict gender based on Korean market consumption data([here](./mart2.csv))
+Gender prediction based on Korean market consumption data([here](./mart2.csv))
 
 #### [project description](./Term%20Project.pdf) including :
 - numerous machine learning methods and reasons of selection
