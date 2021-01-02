@@ -12,4 +12,4 @@ Predict gender based on mart consumption data([here](./mart2.csv))
 - analysis of all models' performance
 - conclusion
 
-#### [code here](./Term%20Project.ipynb)
+#### code can be found [here](./Term%20Project.ipynb)
